@@ -1,6 +1,6 @@
 cordova-powermanagement
 =======================
-
+*Updated on 20/03/2018 by uareurapid for Cordova IOS 4.5.4
 ###Install to project:
 cordova plugin add https://github.com/cemerson/cordova-powermanagement.git
 
